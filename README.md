@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [XING](https://www.xing.com/profile/Joerg_Adelhelm/cv) - [LinkedIn](https://de.linkedin.com/in/j%C3%B6rg-adelhelm-b938841b9)
+- Stackoverflow: https://stackoverflow.com/users/16236118/jadel
 
 
 <!---
