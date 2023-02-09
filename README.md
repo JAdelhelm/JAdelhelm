@@ -1,4 +1,5 @@
 <a href="https://stackoverflow.com/users/16236118/jadel"><img src="https://stackoverflow.com/users/flair/16236118.png" width="208" height="58" alt="profile for JAdel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JAdel at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+![](https://komarev.com/ghpvc/?username=JAdelhelme&color=brightgreen)
 - Kaggle: https://www.kaggle.com/jadelhelm
 - 👋 Hi, I’m @JAdelhelm
 - 👀 I’m interested in ...
