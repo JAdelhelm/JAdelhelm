@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=JAdelhelme&color=brightgreen)
 <!-- - Kaggle: https://www.kaggle.com/jadelhelm -->
 - 👋 Hi, I’m @JAdelhelm
-- ☕ My [Website](https://joerg-adelhelm.de/) 
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -14,4 +14,5 @@
 JAdelhelm/JAdelhelm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
+- ☕ My [Website](https://joerg-adelhelm.de/) 
 --->
